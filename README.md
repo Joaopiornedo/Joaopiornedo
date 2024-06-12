@@ -1,5 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPiornedo&show_icons=true&theme=neon)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopiornedo&hide_icons=true&theme=neon)
 
 # Tecnologias que Trabalho
 
